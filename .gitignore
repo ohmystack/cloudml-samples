@@ -1,0 +1,4 @@
+*.pyc
+
+mnist/distributed/data/eval.tfr.gz
+mnist/distributed/data/train.tfr.gz
