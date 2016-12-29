@@ -22,7 +22,6 @@ build_eval_graph(), build_prediction_graph() and format_metric_values().
 import argparse
 import json
 import logging
-import os
 
 import tensorflow as tf
 from tensorflow.contrib import layers
